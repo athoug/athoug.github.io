@@ -1,0 +1,32 @@
+/*
+    =====================================
+                GENERAL
+    =====================================
+*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+html, body {
+    font-family: 'Lato', sans-serif;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+
+/*
+    =====================================
+                Header
+    =====================================
+*/
+
+.head {
+    width: 100%;
+    height: 100vh;
+    background-color: #323232;
+}
