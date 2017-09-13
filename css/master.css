@@ -131,13 +131,15 @@ ul.bottom-links li i:hover {
 
 #officla-docs {
     color: #69c5a9;
+    padding: 2px;
     text-decoration: none;
 
     transition: all 0.7s;
 }
 
 #officla-docs:hover {
-    color: #296f5a;
+    background-color: #69c5a9;
+    color: #1c1b1a;
 }
 
 /* Main Nav */
@@ -193,12 +195,6 @@ ul.bottom-links li i:hover {
     font-size: 250%;
     color: #ccc;
 }
-
-/*.main-nav {
-    float: left;
-    margin-top: 35px;
-    margin-left: 35px;
-}*/
 
 .main-nav li {
       display: block;
