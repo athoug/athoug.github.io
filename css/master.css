@@ -21,6 +21,10 @@ html, body {
     transition: border-bottom 0.4s;
 }
 
+::selection {
+  background: #c1eee0; /* WebKit/Blink Browsers */
+}
+
 
 /* ---------------------------------------- */
 /* REUSABLE COMPONENTS */
