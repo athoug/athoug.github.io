@@ -13,6 +13,21 @@
         width: 100%;
     }
 
+    .about-container {
+        top: 15%;
+    }
+
+    .head {
+      height: 1100px;
+    }
+
+    .face {
+      top: 40%;
+      left: 0;
+      width: 100%;
+      margin: auto;
+    }
+
     .contact-form, .form { width: 100%;}
 
 }
@@ -22,8 +37,14 @@
   .about-container {
       right: 0;
       left: 0;
-      top: 20%;
+      top: 15%;
       width: 100%;
+  }
+
+  .face {
+    top: 52%;
+    width: 150%;
+    left: -120px;
   }
 }
 
